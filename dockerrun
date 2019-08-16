@@ -1,0 +1,2 @@
+#!/bin/sh
+docker run -it -v /Users/dodo/sources/devtools:/container/devtools rsippl/centos-dev
